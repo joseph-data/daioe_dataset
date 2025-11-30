@@ -1,5 +1,7 @@
 # DAIOE datasets
 
+https://doi.org/10.5281/zenodo.17765750
+
 This repository hosts the DAIOE (Direct AI Occupational Exposure) index in multiple occupational classifications. Each dataset folder includes three file formats for convenience: `.csv`, `.dta` (Stata), and `.xlsx` (Excel).
 
 ## Flavours (occupational classifications)
