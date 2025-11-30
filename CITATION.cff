@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+message: "If you use this dataset, please cite it as below."
+
+preferred-citation:
+  type: data
+  title: "dDAIOE datasets"
+  version: "1.0.0"
+  doi: "10.5281/zenodo.17765646"
+  date-released: "2025-06-01"
+  url: "hhttps://doi.org/10.5281/zenodo.17765646"
+  authors:
+    - family-names: "Oluoch"
+      given-names: "Joseph Nyajuoga"
+      orcid: "https://orcid.org/0009-0006-7488-3469"
