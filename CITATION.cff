@@ -3,7 +3,7 @@ message: "If you use this dataset, please cite it as below."
 
 preferred-citation:
   type: data
-  title: "dDAIOE datasets"
+  title: "DAIOE datasets"
   version: "1.0.0"
   doi: "10.5281/zenodo.17765646"
   date-released: "2025-06-01"
