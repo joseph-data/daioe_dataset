@@ -35,3 +35,21 @@ This repository hosts the DAIOE (Direct AI Occupational Exposure) index in multi
 ## Links
 This repo ➡️ [Translation Helper Utility](https://github.com/joseph-data/07_translate_ssyk) contains a utility script for English translation of the SSYK 2012 and SSYK 96 occupation titles.
 
+## Cite 
+If you make use of this dataset you can cite as below:
+
+```
+@dataset{joseph_nyajuoga_2025_17765750,
+  author       = {Joseph Nyajuoga},
+  title        = {joseph-data/daioe\_dataset: AI-Econ Lab, Örebro
+                   University
+                  },
+  month        = nov,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.17765750},
+  url          = {https://doi.org/10.5281/zenodo.17765750},
+}
+```
+
