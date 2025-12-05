@@ -31,3 +31,7 @@ This repository hosts the DAIOE (Direct AI Occupational Exposure) index in multi
 ### Notes
 - Early rows may be empty for armed forces occupations or legislators where DAIOE cannot be computed due to missing O*NET observations.
 - Scores allow comparison of AI exposure across occupations and over time; a one-unit change has no standalone interpretation.
+
+## Links
+This repo ➡️ [Translation Helper Utility](https://github.com/joseph-data/07_translate_ssyk) contains a utility script for English translation of the SSYK 2012 and SSYK 96 occupation titles.
+
