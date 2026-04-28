@@ -32,17 +32,17 @@ All files follow a standardized column layout across the index scores and percen
 
 The index is built from the following specific AI capability domains:
 
-1. **Strategic Games** (`stratgames`)
-2. **Video Games** (`videogames`)
-3. **Image Recognition** (`imgrec`)
-4. **Image Compression** (`imgcompr`)
-5. **Image Generation** (`imggen`)
-6. **Reading Comprehension** (`readcompr`)
-7. **Language Modeling** (`lngmod`)
-8. **Translation** (`translat`)
-9. **Speech Recognition** (`speechrec`)
-10. **Generative AI** (`genai`) - *Specialized index*
-11. **Overall Exposure** (`allapps`) - *Aggregated index*
+1. ♟️ **Strategic Games** (`stratgames`)
+2. 🎮 **Video Games** (`videogames`)
+3. 🖼️ **Image Recognition** (`imgrec`)
+4. 🧩 **Image Compression** (`imgcompr`)
+5. 🎨 **Image Generation** (`imggen`)
+6. 📖 **Reading Comprehension** (`readcompr`)
+7. ✍️ **Language Modeling** (`lngmod`)
+8. 🌐 **Translation** (`translat`)
+9. 🎙️ **Speech Recognition** (`speechrec`)
+10. 🧠 **Generative AI** (`genai`) - *Specialized index*
+11. 📚 **Overall Exposure** (`allapps`) - *Aggregated index*
 
 ## Important Notes
 
