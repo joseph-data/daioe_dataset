@@ -53,11 +53,12 @@ The index is built from the following specific AI capability domains:
 
 - [Translation Helper Utility](https://github.com/joseph-data/07_translate_ssyk): Provides English translations for SSYK 2012 and SSYK 96 occupational titles.
 
+```markdown
+<!--
 ## Citation
 
 If you use this dataset in your research, please cite it as follows:
 
-```bibtex
 @dataset{joseph_nyajuoga_2025_17765750,
   author       = {Joseph Nyajuoga},
   title        = {joseph-data/daioe_dataset: AI-Econ Lab, Örebro University},
@@ -68,7 +69,7 @@ If you use this dataset in your research, please cite it as follows:
   doi          = {10.5281/zenodo.17765750},
   url          = {https://doi.org/10.5281/zenodo.17765750},
 }
-```
+-->
 
 ## License
 
