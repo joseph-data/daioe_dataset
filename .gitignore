@@ -9,3 +9,5 @@ venv/
 
 *.html
 README_files
+
+.codex
