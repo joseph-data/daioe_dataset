@@ -1,5 +1,9 @@
 # DAIOE Datasets: Direct AI Occupational Exposure
 
+<p align="left">
+  <img src="logos/lab.svg" alt="AI-Econ Lab logo" width="200" height="">
+</p>
+
 This repository hosts the **Direct AI Occupational Exposure (DAIOE)** index across multiple international and national occupational classifications. The DAIOE index measures the exposure of various occupations to Artificial Intelligence by mapping AI capabilities to occupational task requirements.
 
 Each dataset folder includes the data in `.csv`, `.dta` (Stata), and `.xlsx` (Excel) formats to ensure broad research accessibility.
@@ -50,8 +54,6 @@ The index is built from the following specific AI capability domains:
 ## Related Projects
 
 - [Translation Helper Utility](https://github.com/joseph-data/07_translate_ssyk): Provides English translations for SSYK 2012 and SSYK 96 occupational titles.
-
-
 
 ## License
 
