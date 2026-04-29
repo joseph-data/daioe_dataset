@@ -1,7 +1,5 @@
 # DAIOE Datasets: Direct AI Occupational Exposure
 
-[![DOI](https://zenodo.org/badge/1106807158.svg)](https://doi.org/10.5281/zenodo.17765749)
-
 This repository hosts the **Direct AI Occupational Exposure (DAIOE)** index across multiple international and national occupational classifications. The DAIOE index measures the exposure of various occupations to Artificial Intelligence by mapping AI capabilities to occupational task requirements.
 
 Each dataset folder includes the data in `.csv`, `.dta` (Stata), and `.xlsx` (Excel) formats to ensure broad research accessibility.
@@ -9,10 +7,10 @@ Each dataset folder includes the data in `.csv`, `.dta` (Stata), and `.xlsx` (Ex
 ## Classifications
 
 - `daioe_isco08`: ISCO-08 (International Standard Classification of Occupations)
-- `daioe_onetsoc2010`: O*NET-SOC 2010 (United States)
-- `daioe_soc2010`: SOC 2010 (United States)
-- `daioe_ssyk96`: SSYK 96 (Sweden)
-- `daioe_ssyk2012`: SSYK 2012 (Sweden)
+- `daioe_onetsoc2010`: O*NET-SOC 2010 (United States 🇺🇸)
+- `daioe_soc2010`: SOC 2010 (United States 🇺🇸)
+- `daioe_ssyk96`: SSYK 96 (Sweden 🇸🇪)
+- `daioe_ssyk2012`: SSYK 2012 (Sweden 🇸🇪)
 
 ## Data Structure
 
@@ -46,7 +44,7 @@ The index is built from the following specific AI capability domains:
 
 ## Important Notes
 
-- **Data Gaps:** Some early rows may be empty for specific occupations (e.g., armed forces or certain legislators) where the DAIOE cannot be computed due to missing O*NET task observations.
+- **Data Gaps:** Some early rows may be empty for specific occupations (e.g., armed forces) where the DAIOE cannot be computed due to missing O*NET task observations.
 - **Interpretation:** Scores are designed to allow comparison of AI exposure across different occupations and over time. Note that a one-unit change in the raw index score does not have a standalone physical interpretation; users should typically rely on percentile rankings for comparative analysis.
 
 ## Related Projects
@@ -58,3 +56,7 @@ The index is built from the following specific AI capability domains:
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+## References
+
+For further reading head to the [AI-Econ Lab Website](https://www.ai-econlab.com/ai-exposure-daioe).
