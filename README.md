@@ -55,7 +55,7 @@ The index is built from the following specific AI capability domains:
 
 ## License
 
-The dataset/data files are licensed under **CC BY 4.0**. See the [LICENSE](LICENSE) file for details.
+The dataset/data files are dedicated to the public domain under **CC0 1.0 Universal**. See the [LICENSE](LICENSE) file for details.
 
 ## References
 
