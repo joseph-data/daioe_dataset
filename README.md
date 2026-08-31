@@ -53,7 +53,7 @@ The index is built from the following specific AI capability domains:
 
 ## Related Projects
 
-- [Translation Helper Utility](https://github.com/joseph-data/07_translate_ssyk): Provides English translations for SSYK 2012 and SSYK 96 occupational titles.
+- [Translation Helper Utility](https://github.com/ai-econ-lab/daioe_translations): Provides English translations for SSYK 2012 and SSYK 96 occupational titles.
 
 ## License
 
